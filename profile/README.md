@@ -36,4 +36,5 @@ MoonOSへの貢献は大歓迎です！バグ修正や機能追加の提案が�
 > Bace_System1.0 / 現在開発中
 
 ******
-<sub>Copyright©2024 Nandeyanen Inc. all rights reserved</sub>
+Copyright©2024 Nandeyanen Inc. all rights reserved
+
